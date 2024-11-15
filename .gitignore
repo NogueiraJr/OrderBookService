@@ -1,0 +1,66 @@
+# .NET Core
+bin/
+obj/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# ASP.NET
+wwwroot/
+
+# Visual Studio for Mac
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# SQLite database
+OrderBook.db
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.log
+
+# Windows temporary files
+*.bak
+*.swp
+*.swo
+
+# JetBrains Rider
+.idea/
+
+# Npm logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# VS Code settings folder
+.vscode/
+
+# Node modules (if applicable, for example, if you also use a frontend with Node.js)
+node_modules/
+
+# Npm package lock file
+package-lock.json
+yarn.lock
